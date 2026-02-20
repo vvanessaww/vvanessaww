@@ -1,5 +1,10 @@
-## Hi there 👋
+## hey, i'm vanessa 👋
 
+📍 **new york, new york** | 🤖 **product manager**
+
+## currently building:
+
+- 💬 **[vanessazwang](https://www.vanessazwang.com)** - all about me
 <!--
 **vvanessaww/vvanessaww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
