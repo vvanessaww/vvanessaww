@@ -1,8 +1,9 @@
 ## hey, i'm vanessa 👋
 
 📍 new york, new york | 🤖 product manager @ servicenow
+you can just build things...
 
-## currently building:
+## currently creating:
 
 - 💬 **[portfolio](https://www.vanessazwang.com)** - all about me (but make it interactive)
 - 📚 **[bookworm](https://www.vanessazwang.com/books)** - a peek into my personal library
