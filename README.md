@@ -1,6 +1,6 @@
 ## hey, i'm vanessa 👋
 
-📍 **new york, new york** | 🤖 **product manager who likes to create**
+📍 **new york, new york** | 🤖 **product manager @ servicenow **
 
 ## currently building:
 
