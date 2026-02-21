@@ -1,6 +1,7 @@
 ## hey, i'm vanessa 👋
 
 📍 new york, new york | 🤖 product manager @ servicenow
+
 you can just build things...
 
 ## currently creating:
