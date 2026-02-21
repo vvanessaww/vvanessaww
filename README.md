@@ -4,7 +4,7 @@
 
 ## currently building:
 
-- 💬 **[portfolio](https://www.vanessazwang.com)** - all about me (interactive mode)
+- 💬 **[portfolio](https://www.vanessazwang.com)** - all about me (but make it interactive)
 - 📚 **[bookworm](https://www.vanessazwang.com/books)** - a peek into my personal library
 <!--
 **vvanessaww/vvanessaww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
