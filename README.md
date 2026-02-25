@@ -35,13 +35,6 @@
 
 ---
 
-## 💡 philosophy
-
-building at the intersection of **product** × **engineering** × **design**  
-from idea to shipped ✨
-
----
-
 ## 📫 let's connect
 
 **[🌐 website](https://www.vanessazwang.com)** • **[💼 linkedin](https://linkedin.com/in/vanessazwang)** • **[✍️ substack](https://vanessawang.substack.com)**
