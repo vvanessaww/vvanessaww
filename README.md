@@ -1,17 +1,52 @@
-## hey, i'm vanessa 👋
+<div align="center">
 
-📍 new york, new york | 🤖 product manager @ servicenow
+# hey, i'm vanessa 👋
 
-you can just build things...
+📍 **new york, new york** | 🤖 **product manager @ servicenow**
 
-## currently creating:
-
-- 💬 **[portfolio](https://www.vanessazwang.com)** - all about me (but make it interactive)
-- 📚 **[bookworm](https://www.vanessazwang.com/books)** - a peek into my personal library
+### *you can just build things...*
 
 ---
 
+## 🚀 currently creating
+
+**[💬 portfolio](https://www.vanessazwang.com)** — all about me (but make it interactive)  
+**[📚 bookworm](https://www.vanessazwang.com/books)** — a peek into my personal library  
+**[🎨 git art generator](https://github.com/vvanessaww/git-art)** — turn your GitHub contributions into terminal-style art  
+**[🏃‍♀️ strava postcard](https://github.com/vvanessaww/strava-postcard)** — vintage postcards from your activities  
+
+---
+
+## 🛠️ tech stack
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 📊 github stats
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vvanessaww&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vvanessaww&layout=compact&theme=dark)
+
+---
+
+## 💡 philosophy
+
+building at the intersection of **product** × **engineering** × **design**  
+from idea to shipped ✨
+
+---
+
+## 📫 let's connect
+
+**[🌐 website](https://www.vanessazwang.com)** • **[💼 linkedin](https://linkedin.com/in/vanessazwang)** • **[✍️ substack](https://vanessawang.substack.com)**
+
+</div>
 
 <!--
 **vvanessaww/vvanessaww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
