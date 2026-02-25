@@ -37,7 +37,7 @@
 
 ## 📫 let's connect
 
-**[🌐 website](https://www.vanessazwang.com)** • **[💼 linkedin](https://linkedin.com/in/vanessazwang)** • **[✍️ substack](https://vanessawang.substack.com)**
+**[🌐 website](https://www.vanessazwang.com)** • **[💼 linkedin](https://linkedin.com/in/vvanessaww)** • **[✍️ substack](https://vanessawang.substack.com)**
 
 </div>
 
