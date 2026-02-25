@@ -29,9 +29,9 @@
 
 ## 📊 github stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vvanessaww&theme=dark" alt="GitHub Streak" style="pointer-events: none;" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vvanessaww&theme=dark)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvanessaww&layout=compact&theme=dark" alt="Top Languages" style="pointer-events: none;" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vvanessaww&layout=compact&theme=dark)
 
 ---
 
