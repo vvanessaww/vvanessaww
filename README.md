@@ -4,7 +4,7 @@
 
 📍 **new york, new york** | 🤖 **product manager @ servicenow**
 
-### *you can just build things...*
+### *you can just build things.*
 
 ---
 
@@ -12,8 +12,8 @@
 
 **[💬 portfolio](https://www.vanessazwang.com)** — all about me (but make it interactive)  
 **[📚 bookworm](https://www.vanessazwang.com/books)** — a peek into my personal library  
-**[🎨 git art generator](https://github.com/vvanessaww/git-art)** — turn your GitHub contributions into terminal-style art  
-**[🏃‍♀️ strava postcard](https://github.com/vvanessaww/strava-postcard)** — vintage postcards from your activities  
+**[🎨 git art generator](https://github.com/vvanessaww/git-art)** — turn your github contributions into art  
+=
 
 ---
 
