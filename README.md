@@ -4,7 +4,7 @@
 
 📍 **new york, new york** | 🤖 **product manager @ servicenow**
 
-### *you can just build things.* <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=hi%3Bi%20am%20vanessa%3Ba%20product%20manager%20at%203D%20servicenow&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+### *you can just build things.* <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=hi%3Bi%20am%20vanessa%3Ba%20product%20manager%20at%20servicenow&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 
 ---
 
