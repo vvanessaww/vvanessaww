@@ -13,7 +13,6 @@
 **[💬 portfolio](https://www.vanessazwang.com)** — all about me (but make it interactive)  
 **[📚 bookworm](https://www.vanessazwang.com/books)** — a peek into my personal library  
 **[🎨 git art generator](https://github.com/vvanessaww/git-art)** — turn your github contributions into art  
-=
 
 ---
 
