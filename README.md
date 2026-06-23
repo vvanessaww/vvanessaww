@@ -1,9 +1,9 @@
 <div align="center">
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=hello%20world%3Bi%20am%20vanessa%3Ba%20product%20manager%20at%20servicenow&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 
-# hey, i'm vanessa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+# i'm vanessa. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-📍 **new york, new york** | 🤖 **product manager @ servicenow** 
+ **new york, new york** | **product manager @ servicenow** 
 
 ---
 
