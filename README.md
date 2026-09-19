@@ -10,18 +10,7 @@
 ## currently creating
 
 **[💬 portfolio](https://www.vanessazwang.com)** — all about me (but make it interactive)  
-**[📚 bookworm](https://www.joinbookworm.com)** — share your reading with friends!
-**[🎨 git art generator](https://github.com/vvanessaww/git-art)** — turn your github contributions into art  
-
----
-
-## 🛠️ tech stack
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**[📚 bookworm](https://www.joinbookworm.com)** — share your reading with friends! 
 
 ---
 
